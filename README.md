@@ -46,11 +46,9 @@ Age, Sex, Chest Pain Type, Resting Blood Pressure, Cholesterol, Fasting Blood Su
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/informologist123tech-creat/heart-disease-predictor.git
 cd heart-disease-predictor
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the HTTPS URL of your GitHub repository.
 
 ### 2. Create a virtual environment (optional but recommended)
 
