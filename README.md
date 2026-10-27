@@ -1,3 +1,7 @@
+# Access The app:
+ ```bash
+https://okasha-heart-disease-predictor.streamlit.app
+```
 # ❤️ Heart Disease Predictor
 
 A machine learning web application built with **Python, Streamlit, Pandas, Plotly, and Scikit-learn** to demonstrate heart disease prediction using a trained Random Forest classifier.
@@ -82,10 +86,7 @@ heart-disease-predictor/
 ├── random_forest.pkl
 ├── requirements.txt
 ├── README.md
-└── HEART_DISEASES_PREDICTOR.ipynb
 ```
-
-The notebook is optional and should be included only if you want to share the model-training workflow.
 
 ## ⚠️ Disclaimer
 
